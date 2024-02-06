@@ -1,6 +1,6 @@
 # Copyright       : @TacticsBadger (also known as @AnalyticsGopher), member of @CPFCInsights
 # Website         : TacticsNotAntics: https://tacticsnotantics.org
-# Github          : https://github.com/TacticsBadger/MonteCarloFootballMatchSim/
+# Github          : https://github.com/TacticsBadger
 # Version 1.0.0   : August   06, 2022
 # Current version : 1.5.0
 # Last Updated    : January  21, 2024
